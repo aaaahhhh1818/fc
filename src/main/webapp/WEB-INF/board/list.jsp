@@ -20,7 +20,7 @@
 
 
 
-<h1>List page</h1>
+<h1>List</h1>
 
 <h4>${pageMaker}</h4>
 
