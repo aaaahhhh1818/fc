@@ -1,5 +1,7 @@
 package org.zerock.fc.annotation;
 
+import org.zerock.fc.sevice.BoardService;
+
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
